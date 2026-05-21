@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: af56de7cedd782c19e33817c60fa5458,
+  rootNotionSpaceId: null, af56de7cedd782c19e33817c60fa5458
 
   // basic site info (required)
   name: 'Notion-Github-Vercel 온라인 이력서 제작방법',
