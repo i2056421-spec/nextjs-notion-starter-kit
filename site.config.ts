@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '317661362ab2816ab875f2c5f69dc488',
+  rootNotionPageId: 'af56de7cedd782c19e33817c60fa5458',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId:af56de7cedd782c19e33817c60fa5458 ,
+  rootNotionSpaceId:null ,
   // basic site info (required)
   name: 'Notion-Github-Vercel 온라인 이력서 제작방법',
   domain: 'https://notion-starter-kmou.vercel.app',
